@@ -1,0 +1,3 @@
+#!/bin/bash
+mpirun -n 3 python optimization_spinalCtrl.py -debug -test -c test_data/rfx_checkpoint.pkl --duration=0.1 --repeat=2 --seed=64  | grep 'total_obs_sum' | awk -F ' ' '{print $6}'
+

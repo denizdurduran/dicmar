@@ -1,0 +1,175 @@
+running on hosts: biorobcn[1-2]
+running on 2 nodes.
+running 20 tasks.
+current working directory is /shared-dev/nannini/osimrl_biorob
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+                                                                     
+       ██████╗███╗   ███╗ █████╗ ███████╗███████╗                    
+      ██╔════╝████╗ ████║██╔══██╗██╔════╝██╔════╝                    
+      ██║     ██╔████╔██║███████║█████╗  ███████╗   optimization v1.0
+      ██║     ██║╚██╔╝██║██╔══██║██╔══╝  ╚════██║                    
+      ╚██████╗██║ ╚═╝ ██║██║  ██║███████╗███████║                    
+       ╚═════╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝                    
+mode : fb optimization 
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+Loaded model gait14dof22musc from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_20170320.osim
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Updating Model file from 30000 to latest format...
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+Loaded model gait14dof22musc_planar from file /shared-dev/nannini/osimrl_biorob/control/../models/gait14dof22musc_planar_20170320.osim
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+--------------------------------------------------------------------------
+ORTE has lost communication with a remote daemon.
+
+  HNP daemon   : [[50268,0],0] on node biorobcn1
+  Remote daemon: [[50268,0],1] on node biorobcn2
+
+This is usually due to either a failure of the TCP network
+connection to the node, or possibly an internal failure of
+the daemon itself. We cannot recover from this failure, and
+therefore will terminate the job.
+--------------------------------------------------------------------------
